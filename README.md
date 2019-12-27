@@ -6,9 +6,9 @@ compile
 gcc -o mdns.out mdns.c
 
 Run
-./mdns.out "FQDN" "RType"
+./mdns.out   "FQDN"  "RType"
 
 e.g
-./mdns.out _printer._tcp.local. A 
+./mdns.out   _printer._tcp.local. A 
 
 Remember a dot after local 
