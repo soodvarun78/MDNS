@@ -15,4 +15,9 @@ Remember a dot after local
 
 # Hamming 
 Generate Hamming code
+
+compile
+
+gcc -o hamming.out hamming.c
+
 ./hamming.out <binary string>
