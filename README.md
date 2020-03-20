@@ -12,3 +12,7 @@ e.g
 ./mdns.out   _printer._tcp.local. A 
 
 Remember a dot after local 
+
+# Hamming 
+Generate Hamming code
+./hamming.out <binary string>
